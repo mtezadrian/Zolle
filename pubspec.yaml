@@ -1,0 +1,37 @@
+name: Zolle
+description: Aprende a reciclar.
+version: 1.0+1
+
+environment:
+  sdk: ">=2.11.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.15.6
+
+  cloud_firestore: ^0.14.0+2
+  cupertino_icons: ^0.1.0
+  firebase_storage: ^4.0.0
+  firebase_core: ^0.5.0
+  #firebase_analytics: ^5.0.6
+  firebase_image: ^0.2.0
+
+  url_launcher: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/recycle.png
+    - assets/slanted_menu.png
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: fonts/Rubik-Regular.ttf
+        - asset: fonts/Rubik-Medium.ttf
+          weight: 500

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833229850680",
+    "firebase_url": "https://zolle-7845e.firebaseio.com",
+    "project_id": "zolle-7845e",
+    "storage_bucket": "zolle-7845e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833229850680:android:b6963b345ac18f4b983ecd",
+        "android_client_info": {
+          "package_name": "com.example.zolle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833229850680-sg47m67kik7ipkqr5obernceaqk3rfnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcvG1Hqmbh9TLh8hsmuPT0GHKkzzXr7dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833229850680-sg47m67kik7ipkqr5obernceaqk3rfnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833229850680-4kqsvqhmgv06ai83bi5qvfen5ujfihuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zolle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
